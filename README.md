@@ -26,8 +26,10 @@ The NewsBot project is a Telegram bot that utilizes the NewsAPI to fetch news ar
 7.Run the Streamlit web page script to visualize the collected data
 
 # Project Structure
-bot_code_main/: Contains the Telegram bot script.
-database_file/: Contains the database schema and storage configurations.
+bot_code_main/: Contains the Telegram bot script
+
+database_file/: Contains the database schema and storage configurations
+
 backup_visuals/: Contains the Streamlit web page script for data visualization
 
 # License
