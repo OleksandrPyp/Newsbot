@@ -30,7 +30,7 @@ bot_code_main/: Contains the Telegram bot script
 
 database_file/: Contains the database schema and storage configurations
 
-backup_visuals/: Contains the Streamlit web page script for data visualization
+"visuals_test"/: Contains the Streamlit web page script for data visualization
 
 # License
 This project is licensed under the MIT License.
